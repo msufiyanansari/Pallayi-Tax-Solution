@@ -13,7 +13,7 @@ namespace SenseInventoryLogoBL
     public class clsJobMasterMember
     {
         public int JobMasterKey { get; set; }
-        public String JobMasterDate { get; set; }
+        public string JobMasterDate { get; set; }
         public int JobMasterJobPersionFKey { get; set; }
         public String JobMasterBillBookNo { get; set; }
         public String JobMasterInvoiceNo { get; set; }
