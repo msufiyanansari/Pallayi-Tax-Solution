@@ -845,7 +845,44 @@ namespace SenseInventoryLogoBL
                 throw ex;
             }
         }
-        
+
+
+        public static string GetTestingSalesPaymentXML(List<clsSalesTransactionPaymentMember> lstSalesTransactionPayments)
+        {
+            try
+            {
+                StringBuilder sbXML = new StringBuilder();
+                sbXML.Append("<SalesMaster>");
+                //var objList = (List<clsCustomer2ProductMember>)HttpContext.Current.Cache[clsCacheKeys.CustomerContactKey];
+                if (lstSalesTransactionPayments == null)
+                {
+                    throw new Exception("Technical Error Saving Records");
+                }
+                foreach (var item in lstSalesTransactionPayments)
+                {
+                    if (item.Mode != "Edit")
+                    {
+                        sbXML.AppendFormat(@"<SalesPayment   
+                                                    SalesTransactionPayKey    =""{0}""          SalesTransactionPayType         =""{1}""  
+                                                    SalesTransactionPayDate   =""{2}""          SalesTransactionPayBankFKey     =""{3}""
+                                                    SalesTransactionPayAmount =""{4}""          SalesTransactionPayBankChequeNo =""{5}""
+                                                    Mode                      =""{6}""          SalesTransactionPayChequeDate   =""{7}""
+                                                    />",
+                                                    item.SalesTransactionPayKey, item.SalesTransactionPayType,
+                                                    Convert.ToDateTime(item.SalesTransactionPayDate).ToString("MM/dd/yyyy"), item.SalesTransactionPayBankFKey,
+                                                    item.SalesTransactionPayAmount, item.SalesTransactionPayBankChequeNo,
+                                                    item.Mode, item.SalesTransactionPayType.Equals("Bank") ? Convert.ToDateTime(item.SalesTransactionPayChequeDate).ToString("MM/dd/yyyy") : String.Empty);
+                    }
+                }
+                sbXML.Append("</SalesMaster>");
+                return sbXML.ToString();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
     }
 }
             
