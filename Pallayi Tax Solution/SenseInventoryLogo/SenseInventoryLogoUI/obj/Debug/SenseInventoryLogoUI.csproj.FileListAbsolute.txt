@@ -1,0 +1,189 @@
+D:\SenseInventory\SenseInventoryUI\bin\Debug\SenseInventoryLogoUI.exe.config
+D:\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoUI.exe.config
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.csprojResolveAssemblyReference.cache
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmAccountSetting.resources
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmCategoryMaster.resources
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmCustomer.resources
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmItemMaster.resources
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmLoginForm.resources
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmMainMaster.resources
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmReportSelection.resources
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmReportViewer.resources
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSalesMaster.resources
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMaster.resources
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMasterReport.resources
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSupplier.resources
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmPurchaseMaster.resources
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMaster.resources
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmCompanySetting.resources
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSalesRegisterReport.resources
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Properties.Resources.resources
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.csproj.GenerateResource.Cache
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\RdlCompile.cache
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\RdlCompile.compiled
+D:\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoUI.exe.manifest
+D:\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoUI.application
+D:\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoUI.exe
+D:\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoUI.pdb
+D:\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\itextsharp.dll
+D:\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\PdfPrintingNet.dll
+D:\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoBL.dll
+D:\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoDA.dll
+D:\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\itextsharp.xml
+D:\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\PdfPrintingNet.xml
+D:\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoBL.pdb
+D:\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoDA.pdb
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.exe.manifest
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.application
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.exe
+D:\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.pdb
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoUI.exe.config
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.exe
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.pdb
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoUI.application
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoUI.exe
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoUI.pdb
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\itextsharp.dll
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\PdfPrintingNet.dll
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoBL.dll
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoDA.dll
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\itextsharp.xml
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\PdfPrintingNet.xml
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoBL.pdb
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoDA.pdb
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.csprojResolveAssemblyReference.cache
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmAccountSetting.resources
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmCategoryMaster.resources
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmCustomer.resources
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmItemMaster.resources
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmLoginForm.resources
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmMainMaster.resources
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmReportSelection.resources
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmReportViewer.resources
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSalesMaster.resources
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMaster.resources
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMasterReport.resources
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSupplier.resources
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmPurchaseMaster.resources
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMaster.resources
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmCompanySetting.resources
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSalesRegisterReport.resources
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Properties.Resources.resources
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.csproj.GenerateResource.Cache
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\RdlCompile.cache
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\RdlCompile.compiled
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.application
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmPurchaseItemMaster.resources
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmManufacturerItem.resources
+D:\Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmPaymentReportViewer.resources
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoUI.exe.config
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.exe
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.pdb
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoUI.application
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoUI.exe
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoUI.pdb
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\itextsharp.dll
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\PdfPrintingNet.dll
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoBL.dll
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoDA.dll
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\itextsharp.xml
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\PdfPrintingNet.xml
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoBL.pdb
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoDA.pdb
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.csprojResolveAssemblyReference.cache
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmAccountSetting.resources
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmCategoryMaster.resources
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmCustomer.resources
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmItemMaster.resources
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmLoginForm.resources
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmMainMaster.resources
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmReportSelection.resources
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmReportViewer.resources
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSalesMaster.resources
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMaster.resources
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMasterReport.resources
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSupplier.resources
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmPurchaseMaster.resources
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMaster.resources
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmCompanySetting.resources
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmPurchaseItemMaster.resources
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmManufacturerItem.resources
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmPaymentReportViewer.resources
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSalesRegisterReport.resources
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Properties.Resources.resources
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.csproj.GenerateResource.Cache
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\RdlCompile.cache
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\RdlCompile.compiled
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Client Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.application
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoUI.exe.config
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.exe
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.pdb
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoUI.application
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoUI.exe
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoUI.pdb
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\itextsharp.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\PdfPrintingNet.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoBL.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoDA.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\itextsharp.xml
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\PdfPrintingNet.xml
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoBL.pdb
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\Debug\SenseInventoryLogoDA.pdb
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.csprojResolveAssemblyReference.cache
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmAccountSetting.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmCategoryMaster.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmCustomer.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmItemMaster.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmLoginForm.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmMainMaster.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmReportSelection.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmReportViewer.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSalesMaster.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMaster.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMasterReport.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSupplier.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmPurchaseMaster.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMaster.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmCompanySetting.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmPurchaseItemMaster.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmManufacturerItem.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmPaymentReportViewer.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSalesRegisterReport.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Properties.Resources.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.csproj.GenerateResource.Cache
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\RdlCompile.cache
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\RdlCompile.compiled
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.application
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmJobPersion.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmJobMaster.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSearchJobMaster.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmPurchaseRegisterReport.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmJobRegisterReport.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMasterReport.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\Debug\SenseInventoryLogoUI.Forms.frmSearchJobMasterReport.resources

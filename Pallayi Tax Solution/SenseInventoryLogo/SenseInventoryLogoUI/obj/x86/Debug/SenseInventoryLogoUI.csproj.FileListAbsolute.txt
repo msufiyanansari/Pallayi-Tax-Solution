@@ -1,0 +1,522 @@
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe.config
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.application
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.pdb
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\itextsharp.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\PdfPrintingNet.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoBL.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoDA.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.Unity.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\itextsharp.xml
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\PdfPrintingNet.xml
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoBL.pdb
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoDA.pdb
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.csprojResolveAssemblyReference.cache
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmAccountSetting.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCategoryMaster.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCustomer.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmItemMaster.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmLoginForm.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmMainMaster.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseRegisterReport.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmReportSelection.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmReportViewer.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSalesMaster.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMaster.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMasterReport.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSupplier.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseMaster.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMaster.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCompanySetting.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseItemMaster.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmManufacturerItem.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPaymentReportViewer.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmJobPersion.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmJobMaster.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchJobMaster.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmJobRegisterReport.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMasterReport.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchJobMasterReport.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSalesRegisterReport.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Properties.Resources.resources
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.csproj.GenerateResource.Cache
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\RdlCompile.cache
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\RdlCompile.compiled
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.application
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.exe
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.pdb
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe.config
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.exe
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.pdb
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.application
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.pdb
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\itextsharp.dll
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\PdfPrintingNet.dll
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoBL.dll
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoDA.dll
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.Unity.dll
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\itextsharp.xml
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\PdfPrintingNet.xml
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoBL.pdb
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoDA.pdb
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.csprojResolveAssemblyReference.cache
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmAccountSetting.resources
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCategoryMaster.resources
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCustomer.resources
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmItemMaster.resources
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmLoginForm.resources
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmMainMaster.resources
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseRegisterReport.resources
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmReportSelection.resources
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmReportViewer.resources
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSalesMaster.resources
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMaster.resources
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMasterReport.resources
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSupplier.resources
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseMaster.resources
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMaster.resources
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCompanySetting.resources
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseItemMaster.resources
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPaymentReportViewer.resources
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMasterReport.resources
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSalesRegisterReport.resources
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Properties.Resources.resources
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.csproj.GenerateResource.Cache
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\RdlCompile.cache
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\RdlCompile.compiled
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.application
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCompanyDetail.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe.config
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.exe
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.pdb
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.application
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.pdb
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\itextsharp.dll
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\PdfPrintingNet.dll
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoBL.dll
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoDA.dll
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.Unity.dll
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\itextsharp.xml
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\PdfPrintingNet.xml
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoBL.pdb
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoDA.pdb
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.csprojResolveAssemblyReference.cache
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmAccountSetting.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCategoryMaster.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCompanyDetail.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCustomer.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmItemMaster.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmLoginForm.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmMainMaster.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseRegisterReport.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmReportSelection.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmReportViewer.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSalesMaster.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMaster.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMasterReport.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSupplier.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseMaster.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMaster.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCompanySetting.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseItemMaster.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPaymentReportViewer.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMasterReport.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSalesRegisterReport.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Properties.Resources.resources
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.csproj.GenerateResource.Cache
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\RdlCompile.cache
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\RdlCompile.compiled
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Client Project\Multi Company\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.application
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe.config
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.exe
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.pdb
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.application
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.pdb
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\itextsharp.dll
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\PdfPrintingNet.dll
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoBL.dll
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoDA.dll
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.Unity.dll
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\itextsharp.xml
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\PdfPrintingNet.xml
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoBL.pdb
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoDA.pdb
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.csprojResolveAssemblyReference.cache
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmAccountSetting.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCategoryMaster.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCompanyDetail.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCustomer.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmItemMaster.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmLoginForm.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmMainMaster.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseRegisterReport.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmReportSelection.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmReportViewer.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSalesMaster.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMaster.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMasterReport.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSupplier.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseMaster.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMaster.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCompanySetting.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseItemMaster.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPaymentReportViewer.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMasterReport.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSalesRegisterReport.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Properties.Resources.resources
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.csproj.GenerateResource.Cache
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\RdlCompile.cache
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\RdlCompile.compiled
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.application
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmGSTSalesRegisterReport.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe.config
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.application
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.pdb
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\itextsharp.dll
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\PdfPrintingNet.dll
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoBL.dll
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoDA.dll
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.Unity.dll
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\itextsharp.xml
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\PdfPrintingNet.xml
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoBL.pdb
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoDA.pdb
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.csprojResolveAssemblyReference.cache
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmAccountSetting.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCategoryMaster.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCompanyDetail.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCustomer.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmItemMaster.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmLoginForm.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmMainMaster.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseRegisterReport.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmReportSelection.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmReportViewer.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSalesMaster.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMaster.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMasterReport.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSupplier.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseMaster.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMaster.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCompanySetting.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseItemMaster.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPaymentReportViewer.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMasterReport.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmGSTSalesRegisterReport.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSalesRegisterReport.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Properties.Resources.resources
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.csproj.GenerateResource.Cache
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\RdlCompile.cache
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\RdlCompile.compiled
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.application
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.exe
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.pdb
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmAccountSetting.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCategoryMaster.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCompanyDetail.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCustomer.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmItemMaster.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmLoginForm.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmMainMaster.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseRegisterReport.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmReportSelection.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmReportViewer.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSalesMaster.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMaster.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMasterReport.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSupplier.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseMaster.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMaster.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCompanySetting.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseItemMaster.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPaymentReportViewer.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMasterReport.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmGSTSalesRegisterReport.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSalesRegisterReport.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Properties.Resources.resources
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.csproj.GenerateResource.cache
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.exe
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.pdb
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe.config
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.application
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.pdb
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\itextsharp.dll
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\PdfPrintingNet.dll
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoBL.dll
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoDA.dll
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.Unity.dll
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\itextsharp.xml
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\PdfPrintingNet.xml
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoBL.pdb
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoDA.pdb
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.application
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.csprojResolveAssemblyReference.cache
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\RdlCompile.cache
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\RdlCompile.compiled
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe.config
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.exe
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.pdb
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe.manifest
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.application
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.pdb
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\itextsharp.dll
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\PdfPrintingNet.dll
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoBL.dll
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoDA.dll
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.Unity.dll
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\itextsharp.xml
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\PdfPrintingNet.xml
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoBL.pdb
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoDA.pdb
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.csprojResolveAssemblyReference.cache
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmAccountSetting.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCategoryMaster.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCompanyDetail.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCustomer.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmItemMaster.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmLoginForm.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmMainMaster.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseRegisterReport.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmReportSelection.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmReportViewer.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSalesMaster.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMaster.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMasterReport.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSupplier.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseMaster.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMaster.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCompanySetting.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseItemMaster.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPaymentReportViewer.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMasterReport.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmGSTSalesRegisterReport.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSalesRegisterReport.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Properties.Resources.resources
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.csproj.GenerateResource.Cache
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\RdlCompile.cache
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\RdlCompile.compiled
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.exe.manifest
+D:\ourLaptopData\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.application
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe.config
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.exe
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.pdb
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.application
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.pdb
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\itextsharp.dll
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\PdfPrintingNet.dll
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoBL.dll
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoDA.dll
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.Unity.dll
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\itextsharp.xml
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\PdfPrintingNet.xml
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoBL.pdb
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoDA.pdb
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.csprojResolveAssemblyReference.cache
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmAccountSetting.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCategoryMaster.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCompanyDetail.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCustomer.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmItemMaster.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmLoginForm.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmMainMaster.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseRegisterReport.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmReportSelection.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmReportViewer.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSalesMaster.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMaster.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMasterReport.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSupplier.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseMaster.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMaster.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCompanySetting.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseItemMaster.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPaymentReportViewer.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMasterReport.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmGSTSalesRegisterReport.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSalesRegisterReport.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Properties.Resources.resources
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.csproj.GenerateResource.Cache
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\RdlCompile.cache
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\RdlCompile.compiled
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.application
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe.config
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.exe
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.pdb
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe.manifest
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.application
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.pdb
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\itextsharp.dll
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\PdfPrintingNet.dll
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoBL.dll
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoDA.dll
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.Unity.dll
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\itextsharp.xml
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\PdfPrintingNet.xml
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoBL.pdb
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoDA.pdb
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.csprojResolveAssemblyReference.cache
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmAccountSetting.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCategoryMaster.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCompanyDetail.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCustomer.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmItemMaster.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmLoginForm.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmMainMaster.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseRegisterReport.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmReportSelection.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmReportViewer.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSalesMaster.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMaster.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMasterReport.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSupplier.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseMaster.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMaster.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCompanySetting.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseItemMaster.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPaymentReportViewer.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMasterReport.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmGSTSalesRegisterReport.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSalesRegisterReport.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Properties.Resources.resources
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.csproj.GenerateResource.Cache
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\RdlCompile.cache
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\RdlCompile.compiled
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.exe.manifest
+D:\17-06-2018\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.application
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe.config
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.exe
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.pdb
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.application
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.exe
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoUI.pdb
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\itextsharp.dll
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\PdfPrintingNet.dll
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoBL.dll
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoDA.dll
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.Unity.dll
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\itextsharp.xml
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\PdfPrintingNet.xml
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoBL.pdb
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\bin\x86\Debug\SenseInventoryLogoDA.pdb
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.csprojResolveAssemblyReference.cache
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmAccountSetting.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCategoryMaster.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCompanyDetail.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCustomer.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmItemMaster.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmLoginForm.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmMainMaster.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseRegisterReport.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmReportSelection.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmReportViewer.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSalesMaster.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMaster.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchSalesMasterReport.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSupplier.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseMaster.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMaster.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmCompanySetting.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPurchaseItemMaster.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmPaymentReportViewer.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSearchPurchaseMasterReport.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmGSTSalesRegisterReport.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Forms.frmSalesRegisterReport.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.Properties.Resources.resources
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.csproj.GenerateResource.Cache
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\RdlCompile.cache
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\RdlCompile.compiled
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.exe.manifest
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoUI\obj\x86\Debug\SenseInventoryLogoUI.application

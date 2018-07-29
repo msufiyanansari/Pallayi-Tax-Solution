@@ -1,0 +1,110 @@
+F:\Works\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringUI.exe.config
+F:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.csprojResolveAssemblyReference.cache
+F:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Properties.Resources.resources
+F:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.csproj.GenerateResource.Cache
+F:\Works\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringUI.exe
+F:\Works\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringUI.pdb
+F:\Works\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringBL.dll
+F:\Works\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringDA.dll
+F:\Works\StarEngineering\StarEngineeringUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Works\StarEngineering\StarEngineeringUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Works\StarEngineering\StarEngineeringUI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Works\StarEngineering\StarEngineeringUI\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Works\StarEngineering\StarEngineeringUI\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\Works\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringBL.pdb
+F:\Works\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringDA.pdb
+F:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.exe
+F:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.pdb
+F:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmMainMaster.resources
+F:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmLoginForm.resources
+F:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmAccountSetting.resources
+F:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmCategoryMaster.resources
+F:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmItemMaster.resources
+F:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmCustomer.resources
+F:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmSalesMaster.resources
+F:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmSearchSalesMaster.resources
+F:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmReportViewer.resources
+F:\Works\StarEngineering\StarEngineeringUI\obj\Debug\RdlCompile.cache
+F:\Works\StarEngineering\StarEngineeringUI\obj\Debug\RdlCompile.compiled
+F:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmReportSelection.resources
+F:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmSearchSalesMasterReport.resources
+F:\Works\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringUI.exe.manifest
+F:\Works\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringUI.application
+F:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.exe.manifest
+F:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.application
+D:\Works\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringUI.exe.config
+D:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.exe
+D:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.pdb
+D:\Works\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringUI.exe.manifest
+D:\Works\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringUI.application
+D:\Works\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringUI.exe
+D:\Works\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringUI.pdb
+D:\Works\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringBL.dll
+D:\Works\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringDA.dll
+D:\Works\StarEngineering\StarEngineeringUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Works\StarEngineering\StarEngineeringUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Works\StarEngineering\StarEngineeringUI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Works\StarEngineering\StarEngineeringUI\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Works\StarEngineering\StarEngineeringUI\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Works\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringBL.pdb
+D:\Works\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringDA.pdb
+D:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.csprojResolveAssemblyReference.cache
+D:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmAccountSetting.resources
+D:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmCategoryMaster.resources
+D:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmCustomer.resources
+D:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmItemMaster.resources
+D:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmLoginForm.resources
+D:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmMainMaster.resources
+D:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmReportSelection.resources
+D:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmReportViewer.resources
+D:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmSalesMaster.resources
+D:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmSearchSalesMaster.resources
+D:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmSearchSalesMasterReport.resources
+D:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Properties.Resources.resources
+D:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.csproj.GenerateResource.Cache
+D:\Works\StarEngineering\StarEngineeringUI\obj\Debug\RdlCompile.cache
+D:\Works\StarEngineering\StarEngineeringUI\obj\Debug\RdlCompile.compiled
+D:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.exe.manifest
+D:\Works\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.application
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringUI.exe.config
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.exe
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.pdb
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringUI.exe.manifest
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringUI.application
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringUI.exe
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringUI.pdb
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringBL.dll
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringDA.dll
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringBL.pdb
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringDA.pdb
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.csprojResolveAssemblyReference.cache
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmAccountSetting.resources
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmCategoryMaster.resources
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmCustomer.resources
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmItemMaster.resources
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmLoginForm.resources
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmMainMaster.resources
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmReportSelection.resources
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmReportViewer.resources
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmSalesMaster.resources
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmSearchSalesMaster.resources
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Forms.frmSearchSalesMasterReport.resources
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.Properties.Resources.resources
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.csproj.GenerateResource.Cache
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\obj\Debug\RdlCompile.cache
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\obj\Debug\RdlCompile.compiled
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.exe.manifest
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.application
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\bin\Debug\itextsharp.dll
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\bin\Debug\itextsharp.xml
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\bin\Debug\PdfPrintingNet.dll
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringUI\bin\Debug\PdfPrintingNet.xml
+D:\Client Software\StarEngineering\StarEngineeringUI\bin\Debug\StarEngineeringUI.exe.config
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.exe
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\StarEngineeringUI.pdb
+D:\Client Software\StarEngineering\StarEngineeringUI\bin\Debug\AsimEngineeringUI.exe.config

@@ -1,0 +1,36 @@
+F:\Works\StarEngineering\StarEngineeringBL\bin\Debug\StarEngineeringBL.dll
+F:\Works\StarEngineering\StarEngineeringBL\bin\Debug\StarEngineeringBL.pdb
+F:\Works\StarEngineering\StarEngineeringBL\obj\Debug\StarEngineeringBL.dll
+F:\Works\StarEngineering\StarEngineeringBL\obj\Debug\StarEngineeringBL.pdb
+F:\Works\StarEngineering\StarEngineeringBL\obj\Debug\StarEngineeringBL.csprojResolveAssemblyReference.cache
+F:\Works\StarEngineering\StarEngineeringBL\bin\Debug\StarEngineeringDA.pdb
+F:\Works\StarEngineering\StarEngineeringBL\bin\Debug\StarEngineeringDA.dll
+F:\Works\StarEngineering\StarEngineeringBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Works\StarEngineering\StarEngineeringBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Works\StarEngineering\StarEngineeringBL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Works\StarEngineering\StarEngineeringBL\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Works\StarEngineering\StarEngineeringBL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Works\StarEngineering\StarEngineeringBL\bin\Debug\StarEngineeringBL.dll
+D:\Works\StarEngineering\StarEngineeringBL\bin\Debug\StarEngineeringBL.pdb
+D:\Works\StarEngineering\StarEngineeringBL\bin\Debug\StarEngineeringDA.dll
+D:\Works\StarEngineering\StarEngineeringBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Works\StarEngineering\StarEngineeringBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Works\StarEngineering\StarEngineeringBL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Works\StarEngineering\StarEngineeringBL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Works\StarEngineering\StarEngineeringBL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Works\StarEngineering\StarEngineeringBL\bin\Debug\StarEngineeringDA.pdb
+D:\Works\StarEngineering\StarEngineeringBL\obj\Debug\StarEngineeringBL.csprojResolveAssemblyReference.cache
+D:\Works\StarEngineering\StarEngineeringBL\obj\Debug\StarEngineeringBL.dll
+D:\Works\StarEngineering\StarEngineeringBL\obj\Debug\StarEngineeringBL.pdb
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringBL\bin\Debug\StarEngineeringBL.dll
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringBL\bin\Debug\StarEngineeringBL.pdb
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringBL\bin\Debug\StarEngineeringDA.dll
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringBL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringBL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringBL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringBL\bin\Debug\StarEngineeringDA.pdb
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringBL\obj\Debug\StarEngineeringBL.csprojResolveAssemblyReference.cache
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringBL\obj\Debug\StarEngineeringBL.dll
+D:\Client Software\DeskTopApplication\StarEngineering\StarEngineeringBL\obj\Debug\StarEngineeringBL.pdb

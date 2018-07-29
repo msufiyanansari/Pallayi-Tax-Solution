@@ -1,0 +1,158 @@
+D:\Client Software\StarEngineering\StarEngineeringUI\bin\Debug\AsimEngineeringUI.exe.config
+D:\Client Software\StarEngineering\StarEngineeringUI\bin\Debug\AsimEngineeringUI.exe.manifest
+D:\Client Software\StarEngineering\StarEngineeringUI\bin\Debug\AsimEngineeringUI.application
+D:\Client Software\StarEngineering\StarEngineeringUI\bin\Debug\AsimEngineeringUI.exe
+D:\Client Software\StarEngineering\StarEngineeringUI\bin\Debug\AsimEngineeringUI.pdb
+D:\Client Software\StarEngineering\StarEngineeringUI\bin\Debug\AsimEngineeringBL.dll
+D:\Client Software\StarEngineering\StarEngineeringUI\bin\Debug\itextsharp.dll
+D:\Client Software\StarEngineering\StarEngineeringUI\bin\Debug\PdfPrintingNet.dll
+D:\Client Software\StarEngineering\StarEngineeringUI\bin\Debug\AsimEngineeringDA.dll
+D:\Client Software\StarEngineering\StarEngineeringUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Software\StarEngineering\StarEngineeringUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Software\StarEngineering\StarEngineeringUI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Software\StarEngineering\StarEngineeringUI\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Client Software\StarEngineering\StarEngineeringUI\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Software\StarEngineering\StarEngineeringUI\bin\Debug\AsimEngineeringBL.pdb
+D:\Client Software\StarEngineering\StarEngineeringUI\bin\Debug\itextsharp.xml
+D:\Client Software\StarEngineering\StarEngineeringUI\bin\Debug\PdfPrintingNet.xml
+D:\Client Software\StarEngineering\StarEngineeringUI\bin\Debug\AsimEngineeringDA.pdb
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\AsimEngineeringUI.csprojResolveAssemblyReference.cache
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmAccountSetting.resources
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmCategoryMaster.resources
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmCustomer.resources
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmItemMaster.resources
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmLoginForm.resources
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmMainMaster.resources
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmReportSelection.resources
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmReportViewer.resources
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmSalesMaster.resources
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmSearchSalesMaster.resources
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmSearchSalesMasterReport.resources
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\AsimEngineeringUI.Properties.Resources.resources
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\AsimEngineeringUI.csproj.GenerateResource.Cache
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\RdlCompile.cache
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\RdlCompile.compiled
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\AsimEngineeringUI.exe.manifest
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\AsimEngineeringUI.application
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\AsimEngineeringUI.exe
+D:\Client Software\StarEngineering\StarEngineeringUI\obj\Debug\AsimEngineeringUI.pdb
+D:\Client Software\AsimEngineering\AsimEngineeringUI\bin\Debug\AsimEngineeringUI.exe.config
+D:\Client Software\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.exe
+D:\Client Software\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.pdb
+D:\Client Software\AsimEngineering\AsimEngineeringUI\bin\Debug\AsimEngineeringUI.exe.manifest
+D:\Client Software\AsimEngineering\AsimEngineeringUI\bin\Debug\AsimEngineeringUI.application
+D:\Client Software\AsimEngineering\AsimEngineeringUI\bin\Debug\AsimEngineeringUI.exe
+D:\Client Software\AsimEngineering\AsimEngineeringUI\bin\Debug\AsimEngineeringUI.pdb
+D:\Client Software\AsimEngineering\AsimEngineeringUI\bin\Debug\itextsharp.dll
+D:\Client Software\AsimEngineering\AsimEngineeringUI\bin\Debug\PdfPrintingNet.dll
+D:\Client Software\AsimEngineering\AsimEngineeringUI\bin\Debug\AsimEngineeringDA.dll
+D:\Client Software\AsimEngineering\AsimEngineeringUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Software\AsimEngineering\AsimEngineeringUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Software\AsimEngineering\AsimEngineeringUI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Software\AsimEngineering\AsimEngineeringUI\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Client Software\AsimEngineering\AsimEngineeringUI\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Software\AsimEngineering\AsimEngineeringUI\bin\Debug\AsimEngineeringBL.pdb
+D:\Client Software\AsimEngineering\AsimEngineeringUI\bin\Debug\itextsharp.xml
+D:\Client Software\AsimEngineering\AsimEngineeringUI\bin\Debug\PdfPrintingNet.xml
+D:\Client Software\AsimEngineering\AsimEngineeringUI\bin\Debug\AsimEngineeringDA.pdb
+D:\Client Software\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.csprojResolveAssemblyReference.cache
+D:\Client Software\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmAccountSetting.resources
+D:\Client Software\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmCategoryMaster.resources
+D:\Client Software\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmCustomer.resources
+D:\Client Software\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmItemMaster.resources
+D:\Client Software\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmLoginForm.resources
+D:\Client Software\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmMainMaster.resources
+D:\Client Software\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmReportSelection.resources
+D:\Client Software\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmReportViewer.resources
+D:\Client Software\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmSalesMaster.resources
+D:\Client Software\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmSearchSalesMaster.resources
+D:\Client Software\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmSearchSalesMasterReport.resources
+D:\Client Software\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Properties.Resources.resources
+D:\Client Software\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.csproj.GenerateResource.Cache
+D:\Client Software\AsimEngineering\AsimEngineeringUI\obj\Debug\RdlCompile.cache
+D:\Client Software\AsimEngineering\AsimEngineeringUI\obj\Debug\RdlCompile.compiled
+D:\Client Software\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.exe.manifest
+D:\Client Software\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.application
+D:\Client Software\AsimEngineering\AsimEngineeringUI\bin\Debug\AsimEngineeringBL.dll
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\bin\Debug\AsimEngineeringUI.exe.config
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.exe
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.pdb
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.csprojResolveAssemblyReference.cache
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmAccountSetting.resources
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmCategoryMaster.resources
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmItemMaster.resources
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmLoginForm.resources
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmMainMaster.resources
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmReportSelection.resources
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmReportViewer.resources
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmSalesMaster.resources
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmSearchSalesMaster.resources
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmSearchSalesMasterReport.resources
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Properties.Resources.resources
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.csproj.GenerateResource.Cache
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\RdlCompile.cache
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\RdlCompile.compiled
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\bin\Debug\AsimEngineeringUI.exe.manifest
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\bin\Debug\AsimEngineeringUI.application
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\bin\Debug\AsimEngineeringUI.exe
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\bin\Debug\AsimEngineeringUI.pdb
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\bin\Debug\AsimEngineeringBL.dll
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\bin\Debug\itextsharp.dll
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\bin\Debug\PdfPrintingNet.dll
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\bin\Debug\AsimEngineeringDA.dll
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\bin\Debug\AsimEngineeringBL.pdb
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\bin\Debug\itextsharp.xml
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\bin\Debug\PdfPrintingNet.xml
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmCustomer.resources
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.exe.manifest
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.application
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmSupplier.resources
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmPurchaseMaster.resources
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.Forms.frmSearchPurchaseMaster.resources
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringUI\bin\Debug\AsimEngineeringDA.pdb
+D:\AsimEngineering\AsimEngineeringUI\bin\Debug\itextsharp.dll
+D:\AsimEngineering\AsimEngineeringUI\bin\Debug\PdfPrintingNet.dll
+D:\AsimEngineering\AsimEngineeringUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\AsimEngineering\AsimEngineeringUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\AsimEngineering\AsimEngineeringUI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\AsimEngineering\AsimEngineeringUI\bin\Debug\Microsoft.Practices.Unity.dll
+D:\AsimEngineering\AsimEngineeringUI\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\AsimEngineering\AsimEngineeringUI\bin\Debug\itextsharp.xml
+D:\AsimEngineering\AsimEngineeringUI\bin\Debug\PdfPrintingNet.xml
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.csprojResolveAssemblyReference.cache
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\AsimEngineeringUI.csproj.GenerateResource.Cache
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\RdlCompile.cache
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\RdlCompile.compiled
+D:\AsimEngineering\AsimEngineeringUI\bin\Debug\SenseInventoryUI.exe.config
+D:\AsimEngineering\AsimEngineeringUI\bin\Debug\SenseInventoryUI.exe.manifest
+D:\AsimEngineering\AsimEngineeringUI\bin\Debug\SenseInventoryUI.application
+D:\AsimEngineering\AsimEngineeringUI\bin\Debug\SenseInventoryUI.exe
+D:\AsimEngineering\AsimEngineeringUI\bin\Debug\SenseInventoryUI.pdb
+D:\AsimEngineering\AsimEngineeringUI\bin\Debug\SenseInventoryBL.dll
+D:\AsimEngineering\AsimEngineeringUI\bin\Debug\SenseInventoryDA.dll
+D:\AsimEngineering\AsimEngineeringUI\bin\Debug\SenseInventoryBL.pdb
+D:\AsimEngineering\AsimEngineeringUI\bin\Debug\SenseInventoryDA.pdb
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\SenseInventoryUI.Forms.frmAccountSetting.resources
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\SenseInventoryUI.Forms.frmCategoryMaster.resources
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\SenseInventoryUI.Forms.frmCustomer.resources
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\SenseInventoryUI.Forms.frmItemMaster.resources
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\SenseInventoryUI.Forms.frmLoginForm.resources
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\SenseInventoryUI.Forms.frmMainMaster.resources
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\SenseInventoryUI.Forms.frmReportSelection.resources
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\SenseInventoryUI.Forms.frmReportViewer.resources
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\SenseInventoryUI.Forms.frmSalesMaster.resources
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\SenseInventoryUI.Forms.frmSearchSalesMaster.resources
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\SenseInventoryUI.Forms.frmSearchSalesMasterReport.resources
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\SenseInventoryUI.Forms.frmSupplier.resources
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\SenseInventoryUI.Forms.frmPurchaseMaster.resources
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\SenseInventoryUI.Forms.frmSearchPurchaseMaster.resources
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\SenseInventoryUI.Properties.Resources.resources
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\SenseInventoryUI.exe.manifest
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\SenseInventoryUI.application
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\SenseInventoryUI.exe
+D:\AsimEngineering\AsimEngineeringUI\obj\Debug\SenseInventoryUI.pdb

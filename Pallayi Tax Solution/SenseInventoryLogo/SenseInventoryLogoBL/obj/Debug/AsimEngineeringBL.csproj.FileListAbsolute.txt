@@ -1,0 +1,47 @@
+D:\Client Software\StarEngineering\StarEngineeringBL\obj\Debug\AsimEngineeringBL.csprojResolveAssemblyReference.cache
+D:\Client Software\StarEngineering\StarEngineeringBL\bin\Debug\AsimEngineeringBL.dll
+D:\Client Software\StarEngineering\StarEngineeringBL\bin\Debug\AsimEngineeringBL.pdb
+D:\Client Software\StarEngineering\StarEngineeringBL\bin\Debug\AsimEngineeringDA.dll
+D:\Client Software\StarEngineering\StarEngineeringBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Software\StarEngineering\StarEngineeringBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Software\StarEngineering\StarEngineeringBL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Software\StarEngineering\StarEngineeringBL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Client Software\StarEngineering\StarEngineeringBL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Software\StarEngineering\StarEngineeringBL\bin\Debug\AsimEngineeringDA.pdb
+D:\Client Software\StarEngineering\StarEngineeringBL\obj\Debug\AsimEngineeringBL.dll
+D:\Client Software\StarEngineering\StarEngineeringBL\obj\Debug\AsimEngineeringBL.pdb
+D:\Client Software\AsimEngineering\AsimEngineeringBL\bin\Debug\AsimEngineeringBL.dll
+D:\Client Software\AsimEngineering\AsimEngineeringBL\bin\Debug\AsimEngineeringBL.pdb
+D:\Client Software\AsimEngineering\AsimEngineeringBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Software\AsimEngineering\AsimEngineeringBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Software\AsimEngineering\AsimEngineeringBL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Software\AsimEngineering\AsimEngineeringBL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Client Software\AsimEngineering\AsimEngineeringBL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Software\AsimEngineering\AsimEngineeringBL\bin\Debug\AsimEngineeringDA.pdb
+D:\Client Software\AsimEngineering\AsimEngineeringBL\obj\Debug\AsimEngineeringBL.csprojResolveAssemblyReference.cache
+D:\Client Software\AsimEngineering\AsimEngineeringBL\obj\Debug\AsimEngineeringBL.dll
+D:\Client Software\AsimEngineering\AsimEngineeringBL\obj\Debug\AsimEngineeringBL.pdb
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringBL\bin\Debug\AsimEngineeringBL.dll
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringBL\bin\Debug\AsimEngineeringBL.pdb
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringBL\obj\Debug\AsimEngineeringBL.csprojResolveAssemblyReference.cache
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringBL\obj\Debug\AsimEngineeringBL.dll
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringBL\obj\Debug\AsimEngineeringBL.pdb
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringBL\bin\Debug\AsimEngineeringDA.dll
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringBL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringBL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringBL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringBL\bin\Debug\AsimEngineeringDA.pdb
+D:\AsimEngineering\AsimEngineeringBL\bin\Debug\SenseInventoryBL.dll
+D:\AsimEngineering\AsimEngineeringBL\bin\Debug\SenseInventoryBL.pdb
+D:\AsimEngineering\AsimEngineeringBL\bin\Debug\SenseInventoryDA.dll
+D:\AsimEngineering\AsimEngineeringBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\AsimEngineering\AsimEngineeringBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\AsimEngineering\AsimEngineeringBL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\AsimEngineering\AsimEngineeringBL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\AsimEngineering\AsimEngineeringBL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\AsimEngineering\AsimEngineeringBL\bin\Debug\SenseInventoryDA.pdb
+D:\AsimEngineering\AsimEngineeringBL\obj\Debug\AsimEngineeringBL.csprojResolveAssemblyReference.cache
+D:\AsimEngineering\AsimEngineeringBL\obj\Debug\SenseInventoryBL.dll
+D:\AsimEngineering\AsimEngineeringBL\obj\Debug\SenseInventoryBL.pdb

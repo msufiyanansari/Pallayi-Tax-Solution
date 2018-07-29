@@ -1,0 +1,94 @@
+D:\SenseInventory\SenseInventoryBL\bin\Debug\SenseInventoryLogoBL.dll
+D:\SenseInventory\SenseInventoryBL\bin\Debug\SenseInventoryLogoBL.pdb
+D:\SenseInventory\SenseInventoryBL\bin\Debug\SenseInventoryLogoDA.dll
+D:\SenseInventory\SenseInventoryBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SenseInventory\SenseInventoryBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SenseInventory\SenseInventoryBL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SenseInventory\SenseInventoryBL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SenseInventory\SenseInventoryBL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SenseInventory\SenseInventoryBL\bin\Debug\SenseInventoryLogoDA.pdb
+D:\SenseInventory\SenseInventoryBL\obj\Debug\SenseInventoryLogoBL.csprojResolveAssemblyReference.cache
+D:\SenseInventory\SenseInventoryBL\obj\Debug\SenseInventoryLogoBL.dll
+D:\SenseInventory\SenseInventoryBL\obj\Debug\SenseInventoryLogoBL.pdb
+D:\Software\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoBL.dll
+D:\Software\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoBL.pdb
+D:\Software\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Software\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Software\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Software\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Software\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Software\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoDA.pdb
+D:\Software\SenseInventoryLogo\SenseInventoryLogoBL\obj\Debug\SenseInventoryLogoBL.csprojResolveAssemblyReference.cache
+D:\Software\SenseInventoryLogo\SenseInventoryLogoBL\obj\Debug\SenseInventoryLogoBL.dll
+D:\Software\SenseInventoryLogo\SenseInventoryLogoBL\obj\Debug\SenseInventoryLogoBL.pdb
+D:\Software\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoDA.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoBL.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoBL.pdb
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoDA.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoDA.pdb
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoBL\obj\Debug\SenseInventoryLogoBL.csprojResolveAssemblyReference.cache
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoBL\obj\Debug\SenseInventoryLogoBL.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoBL\obj\Debug\SenseInventoryLogoBL.pdb
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoBL.dll
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoBL.pdb
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoDA.dll
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoDA.pdb
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoBL\obj\Debug\SenseInventoryLogoBL.csprojResolveAssemblyReference.cache
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoBL\obj\Debug\SenseInventoryLogoBL.dll
+D:\Client Project\AmirBhai Software\SenseInventoryLogo\SenseInventoryLogoBL\obj\Debug\SenseInventoryLogoBL.pdb
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoBL.dll
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoBL.pdb
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoDA.dll
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoDA.pdb
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\obj\Debug\SenseInventoryLogoBL.dll
+D:\Client Project\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\obj\Debug\SenseInventoryLogoBL.pdb
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoBL.dll
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoBL.pdb
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoDA.dll
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoDA.pdb
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\obj\Debug\SenseInventoryLogoBL.csprojResolveAssemblyReference.cache
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\obj\Debug\SenseInventoryLogoBL.dll
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\obj\Debug\SenseInventoryLogoBL.pdb
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoBL.dll
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoBL.pdb
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoDA.dll
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoDA.pdb
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\obj\Debug\SenseInventoryLogoBL.dll
+D:\Client Project\DeskTopApplication\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\obj\Debug\SenseInventoryLogoBL.pdb
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoBL.dll
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoBL.pdb
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoDA.dll
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\bin\Debug\SenseInventoryLogoDA.pdb
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\obj\Debug\SenseInventoryLogoBL.csprojResolveAssemblyReference.cache
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\obj\Debug\SenseInventoryLogoBL.dll
+D:\Client Project\Windows Application\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoBL\obj\Debug\SenseInventoryLogoBL.pdb

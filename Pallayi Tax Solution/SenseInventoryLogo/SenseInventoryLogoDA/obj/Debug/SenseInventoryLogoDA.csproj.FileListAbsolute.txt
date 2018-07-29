@@ -1,0 +1,18 @@
+D:\SenseInventory\SenseInventoryDA\bin\Debug\SenseInventoryLogoDA.dll
+D:\SenseInventory\SenseInventoryDA\bin\Debug\SenseInventoryLogoDA.pdb
+D:\SenseInventory\SenseInventoryDA\obj\Debug\SenseInventoryLogoDA.dll
+D:\SenseInventory\SenseInventoryDA\obj\Debug\SenseInventoryLogoDA.pdb
+D:\Software\SenseInventoryLogo\SenseInventoryLogoDA\bin\Debug\SenseInventoryLogoDA.dll
+D:\Software\SenseInventoryLogo\SenseInventoryLogoDA\bin\Debug\SenseInventoryLogoDA.pdb
+D:\Software\SenseInventoryLogo\SenseInventoryLogoDA\obj\Debug\SenseInventoryLogoDA.csprojResolveAssemblyReference.cache
+D:\Software\SenseInventoryLogo\SenseInventoryLogoDA\obj\Debug\SenseInventoryLogoDA.dll
+D:\Software\SenseInventoryLogo\SenseInventoryLogoDA\obj\Debug\SenseInventoryLogoDA.pdb
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoDA\bin\Debug\SenseInventoryLogoDA.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoDA\bin\Debug\SenseInventoryLogoDA.pdb
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoDA\obj\Debug\SenseInventoryLogoDA.csprojResolveAssemblyReference.cache
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoDA\obj\Debug\SenseInventoryLogoDA.dll
+D:\Client Project\KD Project\SenseInventoryLogo\SenseInventoryLogoDA\obj\Debug\SenseInventoryLogoDA.pdb
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoDA\bin\Debug\SenseInventoryLogoDA.dll
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoDA\bin\Debug\SenseInventoryLogoDA.pdb
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoDA\obj\Debug\SenseInventoryLogoDA.dll
+D:\Client Project\Shyamal Bhai\Pallayi Tax Solution\SenseInventoryLogo\SenseInventoryLogoDA\obj\Debug\SenseInventoryLogoDA.pdb

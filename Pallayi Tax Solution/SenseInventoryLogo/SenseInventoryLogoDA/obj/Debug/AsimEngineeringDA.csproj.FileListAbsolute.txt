@@ -1,0 +1,9 @@
+D:\Client Software\StarEngineering\StarEngineeringDA\obj\Debug\AsimEngineeringDA.dll
+D:\Client Software\StarEngineering\StarEngineeringDA\obj\Debug\AsimEngineeringDA.pdb
+D:\Client Software\StarEngineering\StarEngineeringDA\bin\Debug\AsimEngineeringDA.dll
+D:\Client Software\StarEngineering\StarEngineeringDA\bin\Debug\AsimEngineeringDA.pdb
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringDA\bin\Debug\AsimEngineeringDA.dll
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringDA\bin\Debug\AsimEngineeringDA.pdb
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringDA\obj\Debug\AsimEngineeringDA.csprojResolveAssemblyReference.cache
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringDA\obj\Debug\AsimEngineeringDA.dll
+D:\Client Software\DeskTopApplication\AsimEngineering\AsimEngineeringDA\obj\Debug\AsimEngineeringDA.pdb

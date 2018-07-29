@@ -1,0 +1,20 @@
+F:\Works\StarEngineering\StarEngineering\bin\Debug\StarEngineeringDA.dll
+F:\Works\StarEngineering\StarEngineering\bin\Debug\StarEngineeringDA.pdb
+F:\Works\StarEngineering\StarEngineering\obj\Debug\StarEngineeringDA.csprojResolveAssemblyReference.cache
+F:\Works\StarEngineering\StarEngineering\obj\Debug\StarEngineeringDA.dll
+F:\Works\StarEngineering\StarEngineering\obj\Debug\StarEngineeringDA.pdb
+F:\Works\StarEngineering\StarEngineeringDA\bin\Debug\StarEngineeringDA.dll
+F:\Works\StarEngineering\StarEngineeringDA\bin\Debug\StarEngineeringDA.pdb
+F:\Works\StarEngineering\StarEngineeringDA\obj\Debug\StarEngineeringDA.csprojResolveAssemblyReference.cache
+F:\Works\StarEngineering\StarEngineeringDA\obj\Debug\StarEngineeringDA.dll
+F:\Works\StarEngineering\StarEngineeringDA\obj\Debug\StarEngineeringDA.pdb
+D:\Works\StarEngineering\StarEngineeringDA\bin\Debug\StarEngineeringDA.dll
+D:\Works\StarEngineering\StarEngineeringDA\bin\Debug\StarEngineeringDA.pdb
+D:\Works\StarEngineering\StarEngineeringDA\obj\Debug\StarEngineeringDA.csprojResolveAssemblyReference.cache
+D:\Works\StarEngineering\StarEngineeringDA\obj\Debug\StarEngineeringDA.dll
+D:\Works\StarEngineering\StarEngineeringDA\obj\Debug\StarEngineeringDA.pdb
+D:\Client Software\StarEngineering\StarEngineeringDA\bin\Debug\AsimEngineeringDA.dll
+D:\Client Software\StarEngineering\StarEngineeringDA\bin\Debug\AsimEngineeringDA.pdb
+D:\Client Software\StarEngineering\StarEngineeringDA\obj\Debug\StarEngineeringDA.csprojResolveAssemblyReference.cache
+D:\Client Software\StarEngineering\StarEngineeringDA\obj\Debug\AsimEngineeringDA.dll
+D:\Client Software\StarEngineering\StarEngineeringDA\obj\Debug\AsimEngineeringDA.pdb

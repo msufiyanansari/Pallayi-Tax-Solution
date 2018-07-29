@@ -1,0 +1,10 @@
+D:\AsimEngineering\AsimEngineeringDA\bin\Debug\SenseInventoryDA.dll
+D:\AsimEngineering\AsimEngineeringDA\bin\Debug\SenseInventoryDA.pdb
+D:\AsimEngineering\AsimEngineeringDA\obj\Debug\SenseInventoryDA.csprojResolveAssemblyReference.cache
+D:\AsimEngineering\AsimEngineeringDA\obj\Debug\SenseInventoryDA.dll
+D:\AsimEngineering\AsimEngineeringDA\obj\Debug\SenseInventoryDA.pdb
+D:\SenseInventory\SenseInventoryDA\bin\Debug\SenseInventoryLogoDA.dll
+D:\SenseInventory\SenseInventoryDA\bin\Debug\SenseInventoryLogoDA.pdb
+D:\SenseInventory\SenseInventoryDA\obj\Debug\SenseInventoryDA.csprojResolveAssemblyReference.cache
+D:\SenseInventory\SenseInventoryDA\obj\Debug\SenseInventoryLogoDA.dll
+D:\SenseInventory\SenseInventoryDA\obj\Debug\SenseInventoryLogoDA.pdb
