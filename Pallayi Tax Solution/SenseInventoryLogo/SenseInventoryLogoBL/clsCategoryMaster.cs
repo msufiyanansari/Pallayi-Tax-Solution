@@ -19,6 +19,7 @@ namespace SenseInventoryLogoBL
     public int          UserID                         {get;set;}
     public String       CategoryMasterCatIsActiveValue {get;set;}
     public String       CategoryMasterHsnCode          {get;set;}
+    public String       TestingVariable                {get;set;}
     }
     public class clsCategoryMaster:clsCategoryMasterMember
     {
