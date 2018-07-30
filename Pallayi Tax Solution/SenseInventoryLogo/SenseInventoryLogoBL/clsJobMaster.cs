@@ -765,6 +765,44 @@ namespace SenseInventoryLogoBL
             }
         }
 
+
+        public static string GetTestingJobPaymentXML(List<clsJobTransactionPaymentMember> lstJobTransactionPayments)
+        {
+            try
+            {
+                StringBuilder sbXML = new StringBuilder();
+                sbXML.Append("<JobMaster>");
+
+                //var objList = (List<clsJobPersion2ProductMember>)HttpContext.Current.Cache[clsCacheKeys.JobPersionContactKey];
+
+                if (lstJobTransactionPayments == null)
+                {
+                    throw new Exception("Technical Error Saving Records");
+                }
+                foreach (var item in lstJobTransactionPayments)
+                {
+                    if (item.Mode != "Edit")
+                    {
+                        sbXML.AppendFormat(@"<JobPayment   
+                                                    JobTransactionPayKey    =""{0}""          JobTransactionPayType         =""{1}""  
+                                                    JobTransactionPayDate   =""{2}""          JobTransactionPayBankFKey     =""{3}""
+                                                    JobTransactionPayAmount =""{4}""          JobTransactionPayBankChequeNo =""{5}""
+                                                    Mode                      =""{6}""          JobTransactionPayChequeDate   =""{7}""/>",
+                                                    item.JobTransactionPayKey, item.JobTransactionPayType,
+                                                    Convert.ToDateTime(item.JobTransactionPayDate).ToString("MM/dd/yyyy"), item.JobTransactionPayBankFKey,
+                                                    item.JobTransactionPayAmount, item.JobTransactionPayBankChequeNo,
+                                                    item.Mode, item.JobTransactionPayType.Equals("Bank") ? Convert.ToDateTime(item.JobTransactionPayChequeDate).ToString("MM/dd/yyyy") : String.Empty);
+                    }
+                }
+                sbXML.Append("</JobMaster>");
+                return sbXML.ToString();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
     }
 }
 
