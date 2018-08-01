@@ -26,6 +26,8 @@ namespace SenseInventoryLogoBL
         public int    UserRollFKey       {get;set;}
         public int    UserIsActive       {get;set;}
         public int    CompanyID          {get;set;}
+
+        public int    TestingVariable { get; set; }
         public String Mode               {get;set;}
     }
 
