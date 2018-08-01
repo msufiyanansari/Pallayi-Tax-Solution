@@ -31,6 +31,8 @@ namespace SenseInventoryLogoBL
         public string testing1 { get; set; }
         public string testing12{ get; set; }
 
+        public string testing { get; set; }
+
     }
 
     public class clsUserMaster : clsUserMasterMember
