@@ -26,7 +26,11 @@ namespace SenseInventoryLogoBL
         public int    UserRollFKey       {get;set;}
         public int    UserIsActive       {get;set;}
         public int    CompanyID          {get;set;}
-        public String Mode               {get;set;}
+        public String ModesDetail        {get;set;}
+
+        public string testing1 { get; set; }
+        public string testing12{ get; set; }
+
     }
 
     public class clsUserMaster : clsUserMasterMember
